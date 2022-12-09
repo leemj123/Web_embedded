@@ -18,4 +18,7 @@ chapter 6. [임베디드 WebCam connection](https://github.com/leemj123/Web_embe
 ## 개인프로젝트
 [스마트 화분[ 토양 온,습도 management]](https://github.com/leemj123/Web_embedded/wiki/%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8:-%EC%8A%A4%EB%A7%88%ED%8A%B8-%ED%99%94%EB%B6%84%5B-%ED%86%A0%EC%96%91-%EC%98%A8,%EC%8A%B5%EB%8F%84-management%5D)
 
-[나를 위한 기상청[대기압, 온/습도, 강수량]](https://github.com/leemj123/Web_embedded/wiki/%EB%82%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%83%81%EC%B2%AD%EB%A7%8C%EB%93%A4%EA%B8%B0)
+###진행 상황
+Chapter 1. 토양수분 센서를 통해 화분의 수분을 아날로그신호를 받아 저장해보자
+Chapter 2. LED를 토양수분 센서의 데이터로 제어 && 신호가 켜지는 로그를 저장해보자
+Chapter 3. DHT11의 온도를 받아 난로를 제어해보자
