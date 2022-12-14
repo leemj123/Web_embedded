@@ -22,9 +22,9 @@ chapter 6. [임베디드 WebCam connection](https://github.com/leemj123/Web_embe
 [스마트 화분[ 토양 온,습도 management]](https://github.com/leemj123/Web_embedded/wiki/%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8:-%EC%8A%A4%EB%A7%88%ED%8A%B8-%ED%99%94%EB%B6%84%5B-%ED%86%A0%EC%96%91-%EC%98%A8,%EC%8A%B5%EB%8F%84-management%5D)
 
 ### 진행 상황
-Chapter 1. [토양수분 센서를 통해 화분의 수분을 아날로그신호를 받아 저장해보자](https://github.com/leemj123/Web_embedded/wiki/%EC%8A%A4%EB%A7%88%ED%8A%B8-%ED%99%94%EB%B6%84-1%EC%A3%BC%EC%B0%A8)
+Chapter 1. [토양수분 센서를 통해 화분의 수분을 아날로그신호를 받아 저장해보자](https://github.com/leemj123/Web_embedded/wiki/Chapter-1.-%ED%86%A0%EC%96%91%EC%88%98%EB%B6%84-%EC%84%BC%EC%84%9C%EB%A5%BC-%ED%86%B5%ED%95%B4-%ED%99%94%EB%B6%84%EC%9D%98-%EC%88%98%EB%B6%84%EC%9D%84-%EC%95%84%EB%82%A0%EB%A1%9C%EA%B7%B8%EC%8B%A0%ED%98%B8%EB%A5%BC-%EB%B0%9B%EC%95%84-%EC%A0%80%EC%9E%A5%ED%95%B4%EB%B3%B4%EC%9E%90)
 
-Chapter 2. LED를 토양수분 센서의 데이터로 제어 && 신호가 켜지는 로그를 저장해보자
+Chapter 2. LED를 토양수분 센서의 데이터로 제어 && 신호가 켜지는 로그를 저장해보자(https://github.com/leemj123/Web_embedded/wiki/Chapter-2.-%ED%86%A0%EC%96%91%EC%88%98%EB%B6%84-%EC%84%BC%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-LED%EB%A5%BC-%EC%A0%9C%EC%96%B4%ED%95%B4%EB%B3%B4%EC%9E%90)
 
 Chapter 3. DHT11의 온도를 받아 난로를 제어해보자
 
