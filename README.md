@@ -26,5 +26,5 @@ Chapter 1. [토양수분 센서를 통해 화분의 수분을 아날로그신호
 
 Chapter 2. [LED를 토양수분 센서의 데이터로 제어 && 신호가 켜지는 로그를 저장해보자](https://github.com/leemj123/Web_embedded/wiki/Chapter-2.-%ED%86%A0%EC%96%91%EC%88%98%EB%B6%84-%EC%84%BC%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-LED%EB%A5%BC-%EC%A0%9C%EC%96%B4%ED%95%B4%EB%B3%B4%EC%9E%90)
 
-Chapter 3. DHT11의 온도를 받아 난로를 제어해보자
+Chapter 3. [LED를 DHT11의 온도를 받아 제어해보자]() 
 
