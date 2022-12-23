@@ -14,7 +14,7 @@ chapter 3. [Node-red를 사용하여 웹에서 데이터 출력하기](https://g
 
 chapter 4. [Node-RED를 활용하여 시각자료를 만들어보자 [ Dashboard ]](https://github.com/leemj123/Web_embedded/wiki/6%EC%A3%BC%EC%B0%A8---Node-red-Dashboard%EB%A1%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%8B%9C%EA%B0%81%EC%9E%90%EB%A3%8C%EB%A1%9C-%EB%B0%9B%EC%95%84%EB%B3%B4%EC%9E%90!-%5B-Dashboard-%5D)
 
-chapter 5. [DB연결하기 With MariaDB [ DB connection ]](https://github.com/leemj123/Web_embedded/wiki/DB%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0-With-MariaDB-%5B-DB-connection-%5D)
+chapter 5. [DB연결하기 With MariaDB [ DB connection ]](https://github.com/leemj123/Web_embedded/wiki/6-1%EC%A3%BC%EC%B0%A8-DB%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0-With-MariaDB-%5B-DB-connection-%5D)
 
 chapter 6. [임베디드 WebCam connection](https://github.com/leemj123/Web_embedded/wiki/7%EC%A3%BC%EC%B0%A8-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C---WebCam-connection)
 *** 
